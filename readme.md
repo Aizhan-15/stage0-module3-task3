@@ -15,7 +15,7 @@ statement with value "10". Print to console "c". Implement the program inside of
 
     public class DeclaringVars {
        public static void main(String[] args) {
-            //write code here 
+            //write code here
        }
     }
 
@@ -28,6 +28,11 @@ Implement the program inside of given code snippet:
 
     public class ReassigningValues {
        public static void main(String[] args) {
-            //write code here 
+
+
+
+
+
+
        }
     }
